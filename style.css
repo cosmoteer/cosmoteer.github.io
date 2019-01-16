@@ -63,4 +63,9 @@ h1 {
   display: inline;
 }
 
+.about {
+  padding: 20px;
+  border: 20px;
+}
+
 
