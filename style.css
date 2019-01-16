@@ -46,20 +46,6 @@ table {
   border-spacing: 0;
 }
 
-html, body, .Container
-{
-    height: 100%;
-}
-
-    .Container:before
-    {
-        content: '';
-        height: 100%;
-        float: left;
-    }
-
-
-
 
 header {
   background: black;
@@ -69,17 +55,6 @@ header {
   padding-left: 60px;
 }
 
-.Content
-{
-    position: relative;
-    z-index: 1;
-}
-    .Content:after
-    {
-        content: '';
-        clear: both;
-        display: block;
-    }
 
 h1 {
   font-size: 60px;
@@ -103,6 +78,7 @@ h1 {
 }
 
 .scroll {
+    float: left;
     background-color: silver;
     overflow: hidden;
 }
@@ -113,7 +89,7 @@ h1 {
 
 .fixed {
     background-color: white;
-    float: right;
+    float: left;
     margin-left: 10px;
 }
 
