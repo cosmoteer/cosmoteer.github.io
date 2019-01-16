@@ -60,6 +60,7 @@ header {
 h1 {
   font-size: 60px;
   width: 8em;
+  padding-bottom: 10px;
 }
 
 .links {
