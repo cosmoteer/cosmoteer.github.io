@@ -78,7 +78,7 @@ h1 {
 }
 
 .scroll {
-    float: left;
+    float: right;
     margin: 0 1.5%;
     width: 50%;
     background-color: silver;
