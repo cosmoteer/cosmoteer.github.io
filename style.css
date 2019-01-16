@@ -46,8 +46,9 @@ table {
   border-spacing: 0;
 }
 
-h1 {
-  background: silver;
+header {
+  background: black;
+  color: white;
 }
 
 
