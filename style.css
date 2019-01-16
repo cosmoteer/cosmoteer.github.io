@@ -77,14 +77,16 @@ h1 {
     height: 100%;
 }
 
-.scroll
-{
+.scroll {
     background-color: purple;
+    overflow: hidden;
+}
+
+.scroll:hover {
     overflow: auto;
 }
 
-.fixed
-{
+.fixed {
     background-color: orange;
     float: right;
     margin-left: 10px;
