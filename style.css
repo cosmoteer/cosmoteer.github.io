@@ -78,7 +78,7 @@ h1 {
 }
 
 .scroll {
-    background-color: purple;
+    background-color: silver;
     overflow: hidden;
 }
 
@@ -87,7 +87,7 @@ h1 {
 }
 
 .fixed {
-    background-color: orange;
+    background-color: white;
     float: right;
     margin-left: 10px;
 }
