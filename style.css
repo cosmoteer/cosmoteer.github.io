@@ -50,11 +50,17 @@ header {
   background: black;
   color: white;
   padding: 30px;
+  padding-top: 50px;
+  padding-left: 60px;
 }
 
 h1 {
   font-size: 60px;
   width: 8em;
+}
+
+.class {
+  display: inline;
 }
 
 
