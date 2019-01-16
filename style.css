@@ -105,7 +105,7 @@ h1 {
 .scroll {
     background-color: silver;
     overflow: hidden;
-    width: 1200px;
+    width: 200px;
 }
 
 .scroll:hover {
