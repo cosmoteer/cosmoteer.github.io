@@ -47,8 +47,9 @@ table {
 }
 
 header {
-  background: black;
+  background-color: black;
   color: white;
+  padding: 30px;
 }
 
 h1 {
