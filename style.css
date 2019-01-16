@@ -66,7 +66,7 @@ h1 {
   display: inline;
 }
 
-
+/*
 .wrapper {
     position: absolute;
     width: 100%;
@@ -76,6 +76,7 @@ h1 {
 .wrapper > div {
     height: 100%;
 }
+*/
 
 .fixed {
     background-color: white;
