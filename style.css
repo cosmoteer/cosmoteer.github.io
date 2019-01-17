@@ -50,7 +50,8 @@ table {
 header {
   background: black;
   color: white;
-  padding: 30px;
+  /*padding: 30px;*/
+  height: 25%;
   padding-top: 50px;
   padding-left: 60px;
 }
@@ -79,7 +80,7 @@ h1 {
 
 
 .fixed {
-    background-color: green;
+    background-color: red;
     float: left;
     margin: 0 1.5%;
     width: 50%;
