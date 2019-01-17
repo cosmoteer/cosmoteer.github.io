@@ -46,6 +46,9 @@ table {
   border-spacing: 0;
 }
 
+html, body, .Container {
+    height: 100%;
+}
 
 header {
   background: black;
