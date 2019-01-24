@@ -173,11 +173,10 @@ h3 {
   /*width: 8em;*/
   padding-bottom: 1vh;
 }
-/*
-.scroll:hover {
-    overflow: auto;
+
+.bullet {
+  padding-left: 5em;
 }
-*/
 
 
 
