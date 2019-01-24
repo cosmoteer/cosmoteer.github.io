@@ -145,8 +145,9 @@ h1 {
 .fixed {
     /*background-color: silver;*/
     float: left;
-    width: 45vw;
+    width: 40vw;
     margin-left: 4vw;
+    padding-right: 2vw;
     padding-top: 3vh;
     overflow: hidden;
 }
