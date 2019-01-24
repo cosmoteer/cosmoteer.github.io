@@ -106,16 +106,16 @@ h1 {
 
 
 .fixed {
-    background-color: gray;
+    background-color: silver;
     float: left;
-    width: 50%;
+    width: 45vw;
     margin-left: 1%;
     overflow: hidden;
 }
 
 .scroll {
     float: right;
-    width: 45%;
+    width: 50vw;
     background-color: silver;
     overflow: auto;
 }
