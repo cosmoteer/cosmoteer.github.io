@@ -110,6 +110,7 @@ h1 {
     height: 65vh;
     font-family: Nunito Sans,sans-serif;
     font-size: 100%;
+    padding-top: 2vh;
 }
 
 .wrapper > div {
@@ -135,6 +136,8 @@ h1 {
 
 .AboutMe {
   vertical-align: middle;
+  height: 50vw;
+  background-color: gray;
 }
 
 h2 {
