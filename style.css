@@ -161,7 +161,7 @@ h1 {
 }*/
 
 h2 {
-  font-size: 3vmax;
+  font-size: 2.5vmax;
   font-weight: 400;
   /*width: 8em;*/
   padding-bottom: 1vh;
@@ -176,7 +176,7 @@ h3 {
 
 .bullet {
   padding-left: 2em;
-  font-size: 0.5vmax;
+  font-size: 1.2vmax;
 
 }
 
