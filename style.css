@@ -50,9 +50,6 @@ html, body {
   height: 100%;
 }
 
-.left {
-  float: left;
-  padding-right: 30px;
 
 header {
   background: rgb(30,30,30);
@@ -63,6 +60,11 @@ header {
   padding-left: 60px;
 }
 
+
+.left {
+  float: left;
+  padding-right: 30px;
+}
 
 h1 {
   font-size: 48pt;
