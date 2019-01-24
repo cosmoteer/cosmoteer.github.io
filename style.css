@@ -68,6 +68,10 @@ header {
   height: 15vh;
 }
 
+.info {
+  vertical-align: bottom;
+}
+
 h1 {
   font-size: 5vh;
   font-family: Roboto,sans-serif;
@@ -94,7 +98,7 @@ h1 {
 
 
 .fixed {
-    background-color: gray;
+    background-color: silver;
     float: left;
     width: 50%;
     margin-left: 1%;
