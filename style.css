@@ -74,7 +74,9 @@ html, body {
 	@media all and (min-width: 1700px) {  body  { font-size:3.6em;  } }
 
 header {
-  background: rgb(30,30,30);
+  /*background: rgb(30,30,30);*/
+  background-image: url("/images/prism.png");
+  background-repeat:repeat;
   color: white;
   /*padding: 30px;*/
   height: 20vh;
