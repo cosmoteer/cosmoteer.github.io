@@ -62,7 +62,8 @@ header {
 
 
 .left {
-  float: left;
+  /*float: left;*/
+  display: inline-block;
   padding-right: 2%;
   width: 15vh;
   height: 15vh;
