@@ -93,10 +93,10 @@ h1 {
 }
 
 #email, #linkedin, #github {
-  width: 2vh;
-  height: 2vh;
+  width: 2.5vh;
+  height: 2.5vh;
   padding-right: 1vh;
-  padding-top: 0.5vh;
+  padding-top: 1vh;
 }
 
 
