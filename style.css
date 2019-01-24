@@ -61,17 +61,17 @@ header {
 }
 
 
-.left {
-  /*float: left;*/
-  display: inline-block;
+.Header .image {
+  /*float: left;
+  display: inline-block;*/
   padding-right: 2%;
   width: 15vh;
   height: 15vh;
 }
 
-.info {
+/*.Header .info {
   vertical-align: bottom;
-}
+}*/
 
 h1 {
   font-size: 5vh;
@@ -79,6 +79,12 @@ h1 {
   font-weight: 900;
   /*width: 8em;*/
   padding-bottom: 1%;
+}
+
+.Header .image, 
+.Header .text {
+    display: inline-block;
+    vertical-align: bottom;
 }
 
 .links {
@@ -99,7 +105,7 @@ h1 {
 
 
 .fixed {
-    background-color: red;
+    background-color: gray;
     float: left;
     width: 50%;
     margin-left: 1%;
