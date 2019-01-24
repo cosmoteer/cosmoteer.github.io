@@ -95,7 +95,7 @@ h1 {
 #email, #linkedin, #github {
   width: 2vh;
   height: 2vh;
-  padding-left: 1vh;
+  padding-right: 1vh;
   padding-top: 0.5vh;
 }
 
