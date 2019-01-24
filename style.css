@@ -78,14 +78,14 @@ h1 {
     /*height: 60%;*/
 }
 
-/*.wrapper > div {
+.wrapper > div {
     height: 60%;
-}*/
+}
 
 
 
 .fixed {
-    background-color: yellow;
+    background-color: red;
     float: left;
     margin: 0 1.5%;
     width: 50%;
