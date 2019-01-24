@@ -56,14 +56,12 @@ header {
   color: white;
   /*padding: 30px;*/
   height: 20vh;
-  padding-top: 5%;
-  padding-left: 5%;
 }
 
 
 .left {
   float: left;
-  padding-right: 10%;
+  padding-right: 2%;
   width: 15vh;
   height: 15vh;
 }
@@ -73,7 +71,7 @@ h1 {
   font-family: Roboto,sans-serif;
   font-weight: 900;
   /*width: 8em;*/
-  padding-bottom: 5%;
+  padding-bottom: 1%;
 }
 
 .links {
@@ -94,7 +92,7 @@ h1 {
 
 
 .fixed {
-    background-color: red;
+    background-color: gray;
     float: left;
     width: 50%;
     margin-left: 1%;
