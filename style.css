@@ -133,6 +133,10 @@ h1 {
     overflow: auto;
 }
 
+.AboutMe {
+  vertical-align: middle;
+}
+
 h2 {
   font-size: 3vw;
   font-weight: 400;
