@@ -24,7 +24,7 @@ time, mark, audio, video {
 }
 
 strong { 
-  font-weight: bold; 
+  font-weight: 350; 
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -173,16 +173,16 @@ h1 {
 
 h2 {
   font-size: 2.5vmax;
-  font-weight: 350;
+  font-weight: 400;
   /*width: 8em;*/
   padding-bottom: 1vh;
 }
 
 h3 {
   font-size: 2vmax;
-  font-weight: 300;
+  font-weight: 400;
   /*width: 8em;*/
-  padding-bottom: 1vh;
+  padding-bottom: 0.5vh;
 }
 
 .title {
