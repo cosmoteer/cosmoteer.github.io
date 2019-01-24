@@ -23,10 +23,6 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-strong { 
-  font-weight: 350; 
-}
-
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -195,6 +191,9 @@ h3 {
 
 }
 
+strong { 
+  font-weight: 350; 
+}
 
 
 
