@@ -155,6 +155,7 @@ h1 {
 .scroll {
     float: right;
     width: 50vw;
+    padding-right: 2vw;
     /*background-color: gray;*/
     overflow: auto;
 }
