@@ -143,7 +143,7 @@ h1 {
 
 
 .fixed {
-    background-color: silver;
+    /*background-color: silver;*/
     float: left;
     width: 45vw;
     margin-left: 1%;
