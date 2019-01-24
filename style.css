@@ -56,22 +56,24 @@ header {
   color: white;
   /*padding: 30px;*/
   height: 20vh;
-  padding-top: 30px;
-  padding-left: 60px;
+  padding-top: 5%;
+  padding-left: 5%;
 }
 
 
 .left {
   float: left;
-  padding-right: 30px;
+  padding-right: 10%;
+  width: 30vw;
+  height: 30vw;
 }
 
 h1 {
-  font-size: 48pt;
+  font-size: 30vw;
   font-family: Roboto,sans-serif;
   font-weight: 900;
   /*width: 8em;*/
-  padding-bottom: 10px;
+  padding-bottom: 5%;
 }
 
 .links {
