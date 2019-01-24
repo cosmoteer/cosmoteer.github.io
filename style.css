@@ -52,7 +52,7 @@ html, body {
 
 
 header {
-  background: rgb(60,60,60);
+  background: rgb(30,30,30);
   color: white;
   /*padding: 30px;*/
   height: 20vh;
@@ -88,6 +88,7 @@ h1 {
     background-color: red;
     float: left;
     width: 50%;
+    margin-left: 1%;
     overflow: hidden;
 }
 
