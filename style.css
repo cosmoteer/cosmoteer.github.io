@@ -50,6 +50,9 @@ html, body {
   height: 100%;
 }
 
+.left {
+  float: left;
+  padding-right: 30px;
 
 header {
   background: rgb(30,30,30);
@@ -87,7 +90,7 @@ h1 {
 
 
 .fixed {
-    background-color: gray;
+    background-color: red;
     float: left;
     width: 50%;
     margin-left: 1%;
