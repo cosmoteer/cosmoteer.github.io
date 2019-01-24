@@ -62,7 +62,9 @@ header {
 
 
 h1 {
-  font-size: 60px;
+  font-size: 48pt;
+  font-family: Roboto,sans-serif;
+  font-weight: 900;
   width: 8em;
   padding-bottom: 10px;
 }
@@ -85,7 +87,7 @@ h1 {
 
 
 .fixed {
-    background-color: red;
+    background-color: gray;
     float: left;
     width: 50%;
     margin-left: 1%;
