@@ -87,14 +87,12 @@ h1 {
 .fixed {
     background-color: red;
     float: left;
-    margin: 0 1.5%;
     width: 50%;
     overflow: hidden;
 }
 
 .scroll {
     float: right;
-    margin: 0 1.5%;
     width: 45%;
     background-color: silver;
     overflow: auto;
