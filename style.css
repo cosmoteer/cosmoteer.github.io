@@ -53,12 +53,12 @@ html, body {
   height: 100%;
 }
 
-@iter: 19;
+@mqIterations: 19;
 .fontResize(@i) when (@i > 0) {
     @media all and (min-width: 100px * @i) { body { font-size:0.2em * @i; } }
     .fontResize((@i - 1));
 }
-.fontResize(@iter);
+.fontResize(@mqIterations);
 
 header {
   background: rgb(30,30,30);
