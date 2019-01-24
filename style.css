@@ -109,7 +109,7 @@ h1 {
     width: 100%;
     height: 65vh;
     font-family: Nunito Sans,sans-serif;
-    font-size: 2vw;
+    font-size: 0.5vw;
 }
 
 .wrapper > div {
@@ -134,14 +134,14 @@ h1 {
 }
 
 h2 {
-  font-size: 4vw;
+  font-size: 2vw;
   font-weight: 400;
   /*width: 8em;*/
   padding-bottom: 1vh;
 }
 
 h3 {
-  font-size: 3vw;
+  font-size: 1vw;
   font-weight: 200;
   /*width: 8em;*/
   padding-bottom: 1vh;
