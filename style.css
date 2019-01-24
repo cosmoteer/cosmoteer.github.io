@@ -195,5 +195,7 @@ strong {
   font-weight: 350; 
 }
 
-
+i { 
+  font-style: italic;
+}
 
