@@ -90,6 +90,9 @@ h1 {
 
 .links {
   display: inline;
+}
+
+#email, #linkedin, #github {
   width: 3vh;
   height: 3vh;
   padding-left: 2vh;
