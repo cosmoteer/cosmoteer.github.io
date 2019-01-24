@@ -177,6 +177,10 @@ h3 {
   padding-bottom: 1vh;
 }
 
+.title {
+  padding-top: 0.5em;
+}
+
 .bullet {
   padding-left: 2em;
   font-size: 1.2vmax;
