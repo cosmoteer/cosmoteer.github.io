@@ -615,8 +615,8 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
-		color: #fff;
+		background: #FF6310;
+		color: #000;
 		text-align: center;
 		border-radius: 0.5em;
 		text-decoration: none;
@@ -628,8 +628,8 @@
 		@include vendor('transition', ('background-color 0.35s ease-in-out', 'color 0.35s ease-in-out', 'border-bottom-color 0.35s ease-in-out'));
 
 		&:hover {
-			color: #fff;
-			background: #ef8376;
+			color: #000;
+			background: #FF7A33;
 		}
 
 		&.alt {
