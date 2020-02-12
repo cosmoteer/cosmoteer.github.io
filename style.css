@@ -76,7 +76,7 @@ html, body {
 
 header {
   /*background: rgb(30,30,30);*/
-  background-image: url("/images/prism.png");
+  background-image: url("/images/homepage_photo.jpg");
   background-repeat:repeat;
   color: white;
   /*padding: 30px;*/
@@ -109,7 +109,7 @@ h1 {
 
 
 
-.Header .image, 
+.Header .image,
 .Header .infotext {
     display: inline-block;
     vertical-align: bottom;
@@ -196,11 +196,10 @@ h3 {
 
 }
 
-strong { 
-  font-weight: 450; 
+strong {
+  font-weight: 450;
 }
 
-i { 
+i {
   font-style: italic;
 }
-
