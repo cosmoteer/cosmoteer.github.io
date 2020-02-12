@@ -2085,7 +2085,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #161316;
+			background: #2B252C;
 		}
 
 			input[type="button"].alt:hover,
@@ -2146,7 +2146,7 @@ input, select, textarea {
 		.icon.circled {
 			position: relative;
 			display: inline-block;
-			background: #161316;
+			background: #2b252c;
 			color: #fff;
 			border-radius: 100%;
 			width: 3em;
@@ -2180,7 +2180,7 @@ input, select, textarea {
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		color: ##161316;
+		color: #fff;
 		text-align: center;
 		padding: 7.5em 0 2em 0;
 		cursor: default;
@@ -2408,7 +2408,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: ##161316;
+		background: #fff;
 		text-align: center;
 		padding: 4.5em 0 4.5em 0;
 		margin-bottom: 0;
@@ -2460,13 +2460,13 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #161316;
+		background: #2b252c;
 		color: #fff;
 	}
 
 		#footer .icon.circled {
 			background: #fff;
-			color: #161316;
+			color: #2b252c;
 		}
 
 		#footer header {
